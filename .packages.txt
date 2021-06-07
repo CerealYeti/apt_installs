@@ -1,0 +1,7 @@
+nmap
+neovim
+kitty
+speedcrunch
+nmap
+sublime-text
+sublime-merge
